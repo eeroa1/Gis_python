@@ -1,0 +1,7 @@
+id;name;addr
+0;Hanken;Arkadiankatu 22, 00100 Helsinki, Finland
+1;Haaga_Helia;Ratapihantie 13, 00520 Helsinki, Finland
+2;Helsingin_yliopisto_keskusta; Yliopistonkatu 4, 00100, Finland
+3;Aalto;Otakaari 1, 02150 Espoo, Finland
+4;Viikki;Viikin kampus, 00790 Helsinki, Finland
+5;Kumpula;Gustaf Hällströmin katu 2, 00560 Helsinki, Finland
